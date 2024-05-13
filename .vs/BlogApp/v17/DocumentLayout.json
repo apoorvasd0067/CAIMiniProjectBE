@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\blogapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\blogapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sda\\AppData\\Roaming\\Microsoft\\UserSecrets\\7854f2d1-7a9b-4830-8774-627da535a78a\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508053515_UpdateTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogApp\\Migrations\\20240508053515_UpdateTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508045021_blogDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogApp\\Migrations\\20240508045021_blogDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240506132920_BlogAppDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogApp\\Migrations\\20240506132920_BlogAppDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\blogapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\blogapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\migrations\\20240508100321_updatetableblog3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\migrations\\20240508100321_updatetableblog3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\migrations\\20240508095416_updatetableblog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\migrations\\20240508095416_updatetableblog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\migrations\\20240508093407_updatetableblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\migrations\\20240508093407_updatetableblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\migrations\\20240508062722_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\migrations\\20240508062722_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\migrations\\20240508105138_up5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\migrations\\20240508105138_up5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|c:\\users\\sda\\desktop\\blog application\\blogapp\\blogapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4679DF7-8EDE-40FB-83BA-EDA3F40A2F3B}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BlogApp\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:07:04.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Program.cs",
+              "RelativeToolTip": "BlogApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:58:11.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\sda\\AppData\\Roaming\\Microsoft\\UserSecrets\\7854f2d1-7a9b-4830-8774-627da535a78a\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7854f2d1-7a9b-4830-8774-627da535a78a\\secrets.json",
+              "ToolTip": "C:\\Users\\sda\\AppData\\Roaming\\Microsoft\\UserSecrets\\7854f2d1-7a9b-4830-8774-627da535a78a\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7854f2d1-7a9b-4830-8774-627da535a78a\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T07:22:39.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240508105138_up5.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508105138_up5.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240508105138_up5.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508105138_up5.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240508105138_up5.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:51:38.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BlogApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:31:00.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Models\\Blog.cs",
+              "RelativeToolTip": "BlogApp\\Models\\Blog.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:08:00.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Models\\User.cs",
+              "RelativeToolTip": "BlogApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:01:04.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BlogApp\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:36:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240508053515_UpdateTable.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508053515_UpdateTable.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240508053515_UpdateTable.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508053515_UpdateTable.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240508053515_UpdateTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:35:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogApp.csproj",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\BlogApp.csproj",
+              "RelativeDocumentMoniker": "BlogApp\\BlogApp.csproj",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\BlogApp.csproj",
+              "RelativeToolTip": "BlogApp\\BlogApp.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T15:48:54.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\libman.json",
+              "RelativeDocumentMoniker": "BlogApp\\libman.json",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\libman.json",
+              "RelativeToolTip": "BlogApp\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T07:22:25.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeToolTip": "BlogApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T06:02:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240508095416_updateTableBlog2.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508095416_updateTableBlog2.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240508095416_updateTableBlog2.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508095416_updateTableBlog2.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240508095416_updateTableBlog2.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:54:16.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240508100321_updateTableBlog3.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508100321_updateTableBlog3.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240508100321_updateTableBlog3.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508100321_updateTableBlog3.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240508100321_updateTableBlog3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:03:21.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240508093407_updateTableBlog.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508093407_updateTableBlog.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240508093407_updateTableBlog.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508093407_updateTableBlog.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240508093407_updateTableBlog.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:34:07.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240508062722_CreateTable.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508062722_CreateTable.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240508062722_CreateTable.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508062722_CreateTable.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240508062722_CreateTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:27:22.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240508045021_blogDb.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508045021_blogDb.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240508045021_blogDb.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240508045021_blogDb.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240508045021_blogDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:50:21.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlogApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\appsettings.Development.json",
+              "RelativeToolTip": "BlogApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T08:10:04.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlogApp",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\BlogApp.csproj",
+              "RelativeDocumentMoniker": "BlogApp\\BlogApp.csproj",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\BlogApp.csproj",
+              "RelativeToolTip": "BlogApp\\BlogApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T09:54:27.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BlogApp\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\WeatherForecast.cs",
+              "RelativeToolTip": "BlogApp\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:01:17.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240506132920_BlogAppDB.cs",
+              "DocumentMoniker": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240506132920_BlogAppDB.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Migrations\\20240506132920_BlogAppDB.cs",
+              "ToolTip": "C:\\Users\\sda\\Desktop\\Blog Application\\BlogApp\\BlogApp\\Migrations\\20240506132920_BlogAppDB.cs",
+              "RelativeToolTip": "BlogApp\\Migrations\\20240506132920_BlogAppDB.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:29:20.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
