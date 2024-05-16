@@ -98,7 +98,7 @@
     "Parameters": [
       {
         "Name": "UserUpdate",
-        "Type": "BlogApp.Models.User",
+        "Type": "BlogApp.Models.UserLoginCredentials",
         "IsRequired": true
       },
       {

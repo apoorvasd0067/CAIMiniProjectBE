@@ -54,10 +54,9 @@ namespace BlogApp.Controllers
             });
 
         }
-        [HttpPut]
-        [Route("{email}")]
-
-        public IActionResult Update([FromBody] User UserUpdate, [FromRoute] string email)
+        [HttpPut("{email}")]
+        
+        public IActionResult Update([FromBody] UserLoginCredentials UserUpdate,  string email)
         {
             var updateuser= _authContext.Users.FirstOrDefault(x => x.Email == email);
             if (UserUpdate == null)
@@ -68,7 +67,7 @@ namespace BlogApp.Controllers
            
             _authContext.SaveChanges();
 
-            return Ok(updateuser);
+            return Ok();
         }
 
 

@@ -28,6 +28,13 @@ namespace BlogApp.Models
         /*[MinLength(8)]*/ // Enforce minimum password length for security
         public  string Password { get; set; }
     }
+    public class pass
+    {
+        
+        [Required]
+        /*[MinLength(8)]*/ // Enforce minimum password length for security
+        public string Password { get; set; }
+    }
 
 }
 

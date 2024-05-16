@@ -70,3 +70,4 @@ C:\Users\sda\Desktop\Blog Application\BlogApp\BlogApp\bin\Debug\net6.0\Microsoft
 C:\Users\sda\Desktop\Blog Application\BlogApp\BlogApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\sda\Desktop\Blog Application\BlogApp\BlogApp\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\sda\Desktop\Blog Application\BlogApp\BlogApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\sda\Desktop\Blog Application\BlogApp\BlogApp\obj\Debug\net6.0\BlogApp.sourcelink.json
